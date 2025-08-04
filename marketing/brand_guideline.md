@@ -73,3 +73,24 @@ We work wholeheartedly, putting the interests of our clients and team above our 
 
 **Courage**  
 We face challenges head-on, embrace difficult tasks, and are willing to take the hard path to do what’s right. We are not afraid of failure, take responsibility, and lead innovation. 
+
+## Brand Appearance
+
+**Logo Usage**  
+The Cyberk logo should always be displayed clearly and prominently. Maintain sufficient clear space around the logo and use only approved color variations to ensure brand consistency.
+https://cyberk.io/images/logo-cyberk.svg
+
+**Color Palette**  
+Our brand colors reflect innovation, trust, and energy. Use the primary and secondary colors consistently across all digital and print materials to reinforce brand recognition.
+(255,255,255)
+(0,0,0)
+
+**Typography**  
+Cyberk’s typography is modern, clean, and highly legible. Use our approved typefaces for all communications to maintain a cohesive and professional appearance.
+Fonts: Sera,...
+
+**Imagery Style**  
+Our imagery is bold, dynamic, and forward-thinking, reflecting the innovative spirit of Web3 and the entrepreneurial energy of our clients. Use high-quality visuals that inspire action and convey confidence.
+
+**Overall Look & Feel**  
+Cyberk’s visual identity is energetic, modern, and trustworthy. Every touchpoint—from website to pitch decks—should communicate speed, expertise, and partnership. 

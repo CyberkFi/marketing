@@ -18,7 +18,6 @@ https://drive.google.com/file/d/1Byzq2meS4JpCz7O7K2-10yjp6EWQQqs8/view
 
 https://docs.aethir.com/~gitbook/image?url=https%3A%2F%2F3028335560-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FlJdZs7NyMJ6Ewm4U1eRP%252Fuploads%252Fnbv7YhrnxLY9ZrdtBwqc%252FHow%2520Aethir%2520Works.png%3Falt%3Dmedia%26token%3D14e5792b-9dc9-4844-915a-9f84faec19e0&width=768&dpr=4&quality=100&sign=d832f6b0&sv=2
 
-**Dịch tiếng Việt:**
 - **Khách hàng:** Aethir
 - **Liên kết dự án:** 
 https://aethir.com/
@@ -52,7 +51,6 @@ https://docs.aethir.com/~gitbook/image?url=https%3A%2F%2F3028335560-files.gitboo
 
 https://drive.google.com/file/d/1wPsdcltJ7ymLLS6VDacJcIkAwAWp1qT8/view?usp=sharing
 
-**Dịch tiếng Việt:**
 - **Khách hàng:** Coinseeker
 - **Liên kết dự án:** https://coinseeker.co/
 - **Hình thức hợp tác:** Dedicated Team
@@ -85,7 +83,6 @@ https://www.helixfi.io/
 
 https://drive.google.com/file/d/1m4nTr50mxFjUKwL61lQjRJ4S7laE57SD/view?usp=sharing
 
-**Dịch tiếng Việt:**
 - **Khách hàng:** Helix
 - **Liên kết dự án:** 
 https://www.helixfi.io/
