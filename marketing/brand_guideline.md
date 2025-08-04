@@ -4,9 +4,12 @@
 
 Jon and Anderson, the founders of Cyberk, met through their mutual friend Logan in 2021, instantly connecting over their shared expertise and boundless passion for technology and software engineering. United by a bold vision, they set out to build a strong, trustworthy startup community across Asia.
 
-Their journey began with a simple but powerful philosophy: "Together." By joining forces, they believed they could spark real breakthroughs—collaborating, growing, and creating lasting value as one. With Vietnam rising as a powerhouse in the global tech scene, Jon and Anderson saw the opportunity to lead the charge in the decentralized future.
+Before starting Cyberk, Jon and Anderson were founders chasing their own startup dreams. They had the vision, but they still hit the wall that slows down so many early-stage teams: slow execution. By the time their MVP was ready, the market had moved on, cost them time, money, and a shot at success.
 
-They've lived the startup grind—the sprint to MVP, the talent acquisition bottleneck, the need for technical partners who speak your language. Cyberk exists to empower ambitious startups and businesses with rapid, reliable, and innovative Web3 solutions—turning bold ideas into reality and helping dreams thrive in the digital age.
+They realized what most early-stage startups truly need: a lean, reliable, execution-first tech team that understands how critical time-to-market is—especially in the fast-moving world of Web3. No over-engineering. Just a team that moves fast, builds well, and delivers results.
+
+So they created Cyberk—a Web3-focused tech studio built by founders, for founders. Cyberk is the partner that understands what’s at stake—because they’ve been there too.
+
 
 ## Brand Vision
 
