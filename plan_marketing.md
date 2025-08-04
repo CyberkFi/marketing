@@ -21,7 +21,7 @@
 
 | Công việc | Mô tả | Kết quả đầu ra | Thời hạn |
 |-----------|-------|----------------|----------|
-| Tối ưu SEO website | Rà soát, bổ sung từ khóa ngành, meta, CTA, tốc độ tải trang | Website chuẩn SEO, có CTA, case study, testimonial | 08/08/2025 |
+| Tối ưu SEO website | Rà soát, bổ sung từ khóa ngành, meta, CTA, tốc độ tải trang | Website chuẩn SEO, gắn code Google Analytics, có CTA, case study | 08/08/2025 |
 | Hoàn thiện profile X (brand & founder) | Logo, banner, bio, pinned tweet, link website/LinkedIn, 3-5 tweet nền tảng | Profile X chuyên nghiệp, có nội dung nền tảng | 08/08/2025 |
 | Hoàn thiện profile LinkedIn (company & founder) | Ảnh đại diện, banner, headline, about, featured, job section, 2-3 post nền tảng | Profile LinkedIn chuẩn hóa, có nội dung nền tảng | 08/08/2025 |
 
