@@ -113,34 +113,7 @@ Small models for frequent, privacy-sensitive tasks. Large models for complex rea
 
 ---
 
-## Section 4: What we can build for you
-
-> 📝 Nội bộ: giúp visitor map nhu cầu cụ thể — "cái tôi cần có trong list này không?"
-
-Not sure if your idea is an "agent"? Here's what we've built before — and what we can build for you:
-
-**AI advisors & assistants**
-Customer-facing agents that consult, recommend, and guide — trained on your domain knowledge. Not generic chatbots that parrot GPT.
-→ _Example: Skin Agent cross-examines users to catch skin misdiagnosis._
-
-**Enterprise knowledge systems**
-Connect AI to your Notion, Slack, Google Drive. Let employees ask questions in plain language and get sourced, confidence-scored answers.
-→ _Example: MemoryOS indexes 10,000+ docs and warns when knowledge is stale._
-
-**AI scoring & analytics**
-Relationship health, sentiment, rankings, lead scoring — agents that read between the lines of your data and surface insights humans miss.
-→ _Example: Relmo predicts which deals are dying based on conversation patterns._
-
-**AI optimization & audit tools**
-Agents that crawl, scan, score, and improve. Continuous loops, not one-time reports.
-→ _Example: VisibleBrands scores how well AI assistants can find your website._
-
-**Conversational AI integrations**
-WhatsApp, Telegram, Slack, web chat, mobile apps — agents that live where your users already are.
-
----
-
-## Section 5: Why Cyberk for AI
+## Section 4: Why Cyberk for AI
 
 > 📝 Nội bộ: angle mới — Cyberk là AI-native company, không phải agency "cũng làm AI."
 
