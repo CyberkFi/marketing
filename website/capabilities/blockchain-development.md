@@ -58,10 +58,6 @@ Solidity, Rust, Move, Stellar SDK, Cairo — our engineers have written producti
 
 > 📝 Nội bộ: section "khoe logo" — hiển thị logo blockchain + ngôn ngữ tương ứng. Trên web dùng logo grid/carousel.
 
-**We don't just support chains — we've shipped production apps on all of them.**
-
-We've deployed production applications across all major blockchain ecosystems. Each chain has its own architecture, consensus model, and developer tooling. We know the difference — because we've shipped on all of them.
-
 ### EVM chains
 
 > 🖼️ Logo: Ethereum, Base, Polygon, BSC, Arbitrum, Optimism, Avalanche, zkSync
@@ -125,8 +121,6 @@ We've deployed production applications across all major blockchain ecosystems. E
 ## Section 4: What we build with it
 
 > 📝 Nội bộ: map vào nhu cầu cụ thể của khách — "cái tôi cần có trong list không?"
-
-**If it lives on-chain, we've probably built it.**
 
 ### DeFi protocols
 
